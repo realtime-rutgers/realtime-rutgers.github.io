@@ -2,8 +2,8 @@
 title: realtime rutgers
 email: realtime_edge@email.rutgers.edu
 description: Academic webpage of rings group
-baseurl: "realtime-rutgers.github.io"
-url: "/"
+baseurl: /
+url: realtime-rutgers.github.io
 
 
 # Google analytics ID: Remove or use your own!
