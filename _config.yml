@@ -1,9 +1,9 @@
 # Site settings
-title: Dr. Spencer Bryngelson
-email: spencer@caltech.edu
-description: Academic webpage of Dr. Spencer H. Bryngelson
-baseurl: ""
-url: ""
+title: realtime rutgers
+email: realtime_edge@email.rutgers.edu
+description: Academic webpage of rings group
+baseurl: "realtime-rutgers.github.io"
+url: "/"
 
 
 # Google analytics ID: Remove or use your own!
