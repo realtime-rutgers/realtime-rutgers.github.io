@@ -1,0 +1,97 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Anand D. Sarwate
+#    - name: Languages
+#      value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD, Electrical Engineering and Computer Sciences
+      institution: University of California, Berkeley
+      year: 2008
+##      description:
+##        - Description 1.
+##        - Description 2.
+##        - title: Description 3.
+##          contents:
+##            - Sub-description 1.
+##            - Sub-description 2.
+    - title: MS, Electrical Engineering and Computer Sciences
+      institution: University of California, Berkeley
+      year: 2005
+##      description:
+##        - Description 1.
+##        - Description 2.
+    - title: BS, Electrical Engineering and Computer Science
+      institution: Massachusetts Institute of Technology
+      year: 2002
+    - title: BS, Mathematics
+      institution: Massachusetts Institute of Technology
+      year: 2002
+#
+#- title: Experience
+#  type: time_table
+#  contents:
+#    - title: Associate Professor
+#      institution: Department of Electrical and Computer Engineering
+#      institution: Rutgers, The State University of New Jersey
+#      year: July 2020 - Present
+##      description:
+##        - Description 1.
+##        - Description 2.
+##        - title: Description 3.
+##          contents:
+##            - Sub-description 1.
+##            - Sub-description 2.
+#   - title: Assistant Professor
+#      institution: Department of Electrical and Computer Engineering
+#      institution: Rutgers, The State University of New Jersey
+#      year: January 2014 - June 2020
+#
+#    - title: Research Assistant Professor
+#      institution: Department of Electrical and Computer Engineering
+#      institution: Rutgers, The State University of New Jersey
+#      year: October 2011 - December 2013
+#      
+#    - title: Postdoctoral Researcher
+#      institution: Information Theory and Applications Center
+#      institution: University of California, San Diego
+#      year: September 2008 - September 2011
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items: 
+#        - Nobel Prize in Physics 
+#        - Matteucci Medal
+#    - year: 2029
+#      items: 
+#        - Max Planck Medal
+#
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
