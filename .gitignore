@@ -1,4 +1,3 @@
-.idea/
 tags
 _site/
 .jekyll-cache/
@@ -19,3 +18,5 @@ cv/*.bbl
 cv/*.bcf
 cv/*.blg
 cv/*.run.xml
+.idea/workspace.xml
+.idea/workspace.xml
