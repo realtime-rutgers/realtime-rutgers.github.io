@@ -57,5 +57,6 @@ highlight_name: false
 user_groups:
   - Graduate Students
 ---
-[Nitya Sathyavageeswaran](https://nityas1997.github.io/) is a PhD student in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu). 
-. She completed her Bachelors in Electrical and Electronics Engineering from RV College of Engineering in 2019. Her research involves studying balancing timeliness and privacy in communication systems. 
+[Nitya Sathyavageeswaran](https://nityas1997.github.io/) is a PhD student in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu) . 
+
+She completed her Bachelors in Electrical and Electronics Engineering from RV College of Engineering in 2019. Her research involves studying balancing timeliness and privacy in communication systems. 
