@@ -48,9 +48,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=_bgplM4AAAAJ&hl=en'
-  - icon: github
-    icon_pack: fab
-    link: ''
+  
 
 ##### Highlight the author in author lists? (true/false)
 highlight_name: false
