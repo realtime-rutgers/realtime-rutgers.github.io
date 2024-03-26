@@ -47,10 +47,10 @@ social:
     link: ''
   - icon: google-scholar
     icon_pack: ai
-    link: ''
+    link: 'https://scholar.google.com/citations?user=_bgplM4AAAAJ&hl=en'
   - icon: github
     icon_pack: fab
-    link: ''
+    link: 'mailto:nitya.s@rutgers.edu'
 
 ##### Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -59,5 +59,4 @@ highlight_name: false
 user_groups:
   - Graduate Students
 ---
-
-Bio forthcoming.
+[Nitya Sathyavageeswaran](https://nityas1997.github.io/) is a PhD student in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) at [Rutgers, The State University of New Jersey] (https://www.rutgers.edu/). She completed her Bachelors in Electrical and Electronics Engineering from RV College of Engineering in 2019. Her research involves studying balancing timeliness and privacy in communication systems. 
