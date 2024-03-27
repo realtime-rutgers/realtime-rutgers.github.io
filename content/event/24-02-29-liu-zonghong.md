@@ -1,9 +1,7 @@
 ---
-title: Decentralized Learning via Random Walks on Graphs
+title: Decentralized Learning via Random Walks on Graphs - Zonghong Liu (Rutgers)
 
-# use this for speaker
-event: Zonghong Liu (Rutgers)
-
+event: test
 location: Zoom
 
 abstract: 'We study the decentralized optimization problem via random walk for the empirical risk minimization problem. More specifically, we assume that the data are distributed over a network, and a random walk carries the global model, travels over the network, and trains the global model using the local data stored at local nodes. We focus on speeding up the training via the design of the transition probability of the random walk. We implement the importance sampling idea in centralized optimization, identify the entrapment phenomenon that slows down training convergence under specific configurations, and propose a novel algorithm, random walk with random jumps, to overcome the entrapment problem.'
