@@ -1,5 +1,8 @@
 ---
-title: Decentralized Learning via Random Walks on Graphs (Zonghong Liu, Rutgers)
+title: Decentralized Learning via Random Walks on Graphs
+
+# use this for speaker
+event: Zonghong Liu (Rutgers)
 
 location: Zoom
 
