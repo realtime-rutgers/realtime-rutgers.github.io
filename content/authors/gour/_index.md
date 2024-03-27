@@ -51,6 +51,9 @@ social:
   - icon: github
     icon_pack: fab
     link: ''
+  - icon: linkedin
+    icon-pack: fab
+    link: https://www.linkedin.com/in/lakshya-gour/
 
 ##### Highlight the author in author lists? (true/false)
 highlight_name: false
