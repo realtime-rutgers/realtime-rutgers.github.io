@@ -44,7 +44,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto: shreya.venugopal@rutgers.edu'
   - icon: google-scholar
     icon_pack: ai
     link: ''
@@ -60,4 +60,3 @@ user_groups:
   - WINLAB Summer Interns
 ---
 
-Bio forthcoming.
