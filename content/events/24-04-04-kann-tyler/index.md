@@ -1,6 +1,5 @@
 ---
-title: TBD
-author: Tyler Kann (Georgia Tech)
+title: Tyler Kann (Georgia Tech) - TBD
 date: 2024-04-04
 ---
 

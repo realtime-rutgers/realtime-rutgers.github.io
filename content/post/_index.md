@@ -4,7 +4,7 @@ type: landing
 
 sections:
   - block: collection
-    id: posts
+    id: post
     content:
       title: News
       subtitle: ''
