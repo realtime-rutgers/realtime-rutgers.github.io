@@ -52,7 +52,7 @@ social:
     icon_pack: fab
     link: ''
   - icon: linkedin
-    icon-pack: fab
+    icon_pack: fab
     link: https://www.linkedin.com/in/lakshya-gour/
 
 ##### Highlight the author in author lists? (true/false)
