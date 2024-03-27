@@ -1,5 +1,5 @@
 ---
-title: New Website!
+title: RINGS Informal Seminars
 date: 2024-03-20
 ---
 
