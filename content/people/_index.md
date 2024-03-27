@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Graduate Students
-          - Undergraduate Students
+          - WINLAB Summer Interns
           - Alums
       sort_by: Params.last_name
       sort_ascending: true
