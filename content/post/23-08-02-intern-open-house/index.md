@@ -1,6 +1,6 @@
 ---
 title: WINLAB Summer Internship Open House
-date: 2024-08-10
+date: 2023-08-10
 ---
 
 The 2023 WINLAB Summer Internship Open House took place on Thursday August 10th, 2023, offering a platform for students to present the results of their dedicated efforts over the past 10 weeks.
