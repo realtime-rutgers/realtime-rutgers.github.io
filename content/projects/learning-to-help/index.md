@@ -2,6 +2,7 @@
 title: Learning to help – offloading for legacy devices
 date: 2024-03-23
 show_date: false
+authors: ["wu","sarwate"]
 ---
 
 **Researchers:** Yu Wu, Anand D. Sarwate 
