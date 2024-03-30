@@ -2,6 +2,7 @@
 title: Unsupervised online learning in decentralized networks
 date: 2024-03-23
 show_date: false
+authors: ["zulquarnain","bajwa"]
 ---
 
 **Researchers:** Muhammad Zulqarnain, Waheed U. Bajwa 

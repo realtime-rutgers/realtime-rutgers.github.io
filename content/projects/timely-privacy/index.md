@@ -2,6 +2,8 @@
 title: Timeliness and privacy leakage for realtime systems
 date: 2024-03-23
 show_date: false
+authors: ["sathyavageeswaran","sarwate",
+yates"]
 ---
 
 **Researchers:** Nitya Sathyavageeswaran, Anand D. Sarwate, Narayan B. Mandayam, Roy D. Yates
