@@ -1,5 +1,5 @@
 ---
-title: Learning to help – offloading for legacy devices
+title: Testing MEC offloading in the ORBIT testbed
 date: 2024-03-23
 show_date: false
 authors: ["abdelrahman","chang","gour","mehta","venugopal"]
