@@ -44,7 +44,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto: yw828@scarletmail.rutgers.edu'
   - icon: google-scholar
     icon_pack: ai
     link: ''
@@ -60,4 +60,6 @@ user_groups:
   - Graduate Students
 ---
 
-Bio forthcoming.
+Yu Wu is a PhD student in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu) . He works with [Prof. Anand Sarwate](https://adsarwate.github.io/).  His research interests lie in Machine Learning, Distributed System, Acoustic Echo Cancellation and Fair Allocation.
+
+He completed his Masters in Electronic Engineering and Information Science in 2020 and his Bachelors in Information Security in 2017. 
