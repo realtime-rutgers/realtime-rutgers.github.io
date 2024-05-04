@@ -1,5 +1,5 @@
 ---
-title: Learning to help – offloading for legacy devices
+title: Learning To Help: Training Models to Assist Legacy Devices
 date: 2024-03-23
 show_date: false
 authors: ["wu","sarwate"]
@@ -7,8 +7,11 @@ authors: ["wu","sarwate"]
 
 **Researchers:** Yu Wu, Anand D. Sarwate 
 
-The emerging paradigm of mobile edge cloud (MEC) systems provides a rich source of interesting machine learning problems. In a MEC architecture, mobile devices collaborate with cloud computing resources at the “edge” of the network to perform inference and learning. The service on mobile devices and edges may come from different service providers. Restricted by the hardware limit or access authority, sometimes it’s hard to jointly train (update) the machine learning model on both sides. 
+Machine learning models implemented in hardware on physical devices may be deployed for a long time. The computational abilities of the device may be limited and become outdated with respect to newer improvements. Because of the size of ML models, offloading some computation (e.g. to a edge cloud) can help such legacy devices. We cast this problem in the framework of learning with abstention (LWA) in which the expert (edge) must be trained to assist the client (device).
 
 <!-- more -->
 
-In this project, we propose a "Learning to Help" model,  which a pre-trained model, usually embedded on mobile device, is adaptively enhanced by different external classifiers, usually provided by edge, under dynamic environment. We derived the Bayes classifiers in this model and proved the generalization upper bound. For implementation of our algorithm, we provided convex surrogate loss function for the natural 0-1 loss and proved the consistency of the surrogate loss. The Hot-swap Learning model shows extensibility to our future work on large MEC with multi-mobile, multi-edge and multi-cloud. This work addresses the major challenge where mobile platforms are heterogeneous, ranging from energy-harvesting sensors to auto-mobiles, but storage and compute resources are generally limited in comparison to the edge and server clouds while high-accuracy inferences are timely required. 
+Prior work on LWA trains the client assuming the edge is either an oracle or a human expert.
+In this work, we formalize the reverse problem of training the expert for a fixed (legacy) client. As in LWA, the client uses a rejection rule to decide when to offload inference to the expert (at a cost).
+
+We find the Bayes-optimal rule, prove a generalization bound, and find a consistent surrogate loss function. Empirical results show that our framework outperforms confidence-based rejection rules.
