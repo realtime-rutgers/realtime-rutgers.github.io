@@ -1,5 +1,5 @@
 ---
-title: Learning To Help: Training Models to Assist Legacy Devices
+title: Learning To Help - Training Models to Assist Legacy Devices
 date: 2024-03-23
 show_date: false
 authors: ["wu","sarwate"]
