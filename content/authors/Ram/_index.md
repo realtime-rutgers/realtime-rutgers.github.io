@@ -1,16 +1,16 @@
 ---
 ##### Display name
-title: Yu Wu
+title: Kirthana Ram
 
 ######### Full Name (for SEO)
-first_name: Yu
-last_name: Wu
+first_name: Kirthana
+last_name: Ram
 
 ##### Is this the primary user of the site?
 superuser: false
 
 ##### Role/position
-role: Graduate Student
+role: 2024 WINLAB Summer Intern (UG)
 
 ##### Organizations/Affiliations
 organizations:
@@ -44,10 +44,10 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: yw828@scarletmail.rutgers.edu'
+    link: ''
   - icon: google-scholar
     icon_pack: ai
-    link: 'https://scholar.google.com/citations?user=_TI9CYgAAAAJ&hl=en'
+    link: ''
   - icon: github
     icon_pack: fab
     link: ''
@@ -57,9 +57,7 @@ highlight_name: false
 
 ##### Organizational groups that you belong to (for People widget)
 user_groups:
-  - Graduate Students
+  - WINLAB Summer Interns
 ---
 
-Yu Wu is a PhD student in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu) . He works with [Prof. Anand Sarwate](https://adsarwate.github.io/).  His research interests lie in Machine Learning, Distributed System, Acoustic Echo Cancellation and Fair Allocation.
-
-He completed his Masters in Electronic Engineering and Information Science in 2020 and his Bachelors in Information Security in 2017. 
+Bio forthcoming.
