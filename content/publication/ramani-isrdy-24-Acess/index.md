@@ -5,8 +5,8 @@ authors:
 - Ivan Seskar
 - Roy D. Yates
 
-date: '2024-4-22'
-publishDate: '2024-4-22T21:41:07.240565Z'
+date: '2024-04-22'
+publishDate: '2024-04-22T21:41:07.240565Z'
 publication_types:
 - paper-conference
 publication: '* 2024 IEEE International Symposium on Information Theory (ISIT 2024)*'
