@@ -1,5 +1,5 @@
 ---
-title: 'Learning to Help in Multi-Class Settings'
+title: 'Timely and Energy-Efficient Multi-Step Update Processing'
 authors:
 - Vishakha Ramani
 - Ivan Seskar
