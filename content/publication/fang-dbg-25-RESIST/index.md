@@ -1,5 +1,5 @@
 ---
-title: RESIST: Resilient Decentralized Learning Using Consensus Gradient Descent
+title: RESIST:Resilient Decentralized Learning Using Consensus Gradient Descent
 authors:
 - Cheng Fang
 - Rishabh Dixit
