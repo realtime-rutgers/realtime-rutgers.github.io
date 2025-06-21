@@ -10,7 +10,7 @@ last_name: Qayyum
 superuser: false
 
 ##### Role/position
-role: 2023 WINLAB Summer Intern (Grad)
+role: 2025 WINLAB Summer Intern (Grad)
 
 ##### Organizations/Affiliations
 organizations:
