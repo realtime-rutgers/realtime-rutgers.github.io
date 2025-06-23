@@ -51,6 +51,9 @@ social:
   - icon: github
     icon_pack: fab
     link: 'https://github.com/qayyumayaan'
+- icon: linkedin
+    icon_pack: fab
+    link: 'https://linkedin.com/in/ayaan-qayyum/'
 
 ##### Highlight the author in author lists? (true/false)
 highlight_name: false
