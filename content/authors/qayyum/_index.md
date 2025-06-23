@@ -59,4 +59,6 @@ highlight_name: false
 user_groups:
   - WINLAB Summer Interns
 ---
+[Ayaan Qayyum](https://qayyumayaan.dev/) is a Master of Electrical Engineering student in the [Department of Electrical Engineering](https://www.ee.columbia.edu/) at [Columbia University](https://www.columbia.edu). 
 
+He completed his Bachelor of Electrical & Computer Engineering with a minor in Mathematics from [Rutgers, The State University of New Jersey](https://www.rutgers.edu) in 2025. His research involves machine learning, computer vision, signal and image processing, and on-device computation. 
