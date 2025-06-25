@@ -53,7 +53,7 @@ social:
     link: 'https://github.com/TheSunsHoRyzen'
   - icon: linkedin
     icon_pack: fab
-    link: 'www.linkedin.com/in/hasan-ali-618021292'
+    link: 'https://linkedin.com/in/hasan-ali-618021292'
 
 ##### Highlight the author in author lists? (true/false)
 highlight_name: false
