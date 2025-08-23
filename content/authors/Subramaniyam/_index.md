@@ -44,16 +44,21 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: mrs466@scarletmail.rutgers.edu@rutgers.edu'
+    link: 'mailto: mrs466@scarletmail.rutgers.edu'
   - icon: google-scholar
     icon_pack: ai
     link: ''
   - icon: github
     icon_pack: fab
-    link: ''
+    link: 'https://github.com/pythoncoder1999'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://linkedin.com/in/ayaan-qayyum/](https://www.linkedin.com/in/madhav-sub/'
 
 ##### Highlight the author in author lists? (true/false)
 highlight_name: false
 
 ##### Organizational groups that you belong to (for People widget)
 user_groups:
+  - WINLAB Summer Interns
+---
