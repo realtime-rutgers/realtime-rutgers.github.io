@@ -53,7 +53,7 @@ social:
     link: 'https://github.com/pythoncoder1999'
   - icon: linkedin
     icon_pack: fab
-    link: 'https://linkedin.com/in/ayaan-qayyum/](https://www.linkedin.com/in/madhav-sub/'
+    link: 'https://www.linkedin.com/in/madhav-sub/'
 
 ##### Highlight the author in author lists? (true/false)
 highlight_name: false
